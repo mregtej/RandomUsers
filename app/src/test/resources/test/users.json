@@ -1,0 +1,116 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Miguel",
+        "last": "Lowe"
+      },
+      "location": {
+        "street": {
+          "number": 8144,
+          "name": "Wycliff Ave"
+        },
+        "city": "Albury",
+        "state": "Australian Capital Territory",
+        "country": "Australia",
+        "postcode": 6818,
+        "coordinates": {
+          "latitude": "-80.9880",
+          "longitude": "-18.2980"
+        },
+        "timezone": {
+          "offset": "-1:00",
+          "description": "Azores, Cape Verde Islands"
+        }
+      },
+      "email": "miguel.lowe@example.com",
+      "login": {
+        "uuid": "b86df01e-b8dc-46ab-9380-f69604acf078",
+        "username": "lazybird947",
+        "password": "close",
+        "salt": "THZVxORZ",
+        "md5": "52940fb20859da21786333d5dc063035",
+        "sha1": "9fb1369c2b207f6cc2bb07fac7b20c29e9e55985",
+        "sha256": "7690f823224f755db2ebc9ec11d1770c44f4da3a51849682aee64dc4ba1e2e3a"
+      },
+      "dob": {
+        "date": "1965-03-05T22:08:12.656Z",
+        "age": 56
+      },
+      "registered": {
+        "date": "2012-05-27T14:40:16.142Z",
+        "age": 9
+      },
+      "phone": "00-2689-0452",
+      "cell": "0469-514-970",
+      "id": {
+        "name": "TFN",
+        "value": "732495259"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/37.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/37.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/37.jpg"
+      },
+      "nat": "AU"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Ms",
+        "first": "Pinja",
+        "last": "Hautala"
+      },
+      "location": {
+        "street": {
+          "number": 3681,
+          "name": "Rautatienkatu"
+        },
+        "city": "Kinnula",
+        "state": "Ostrobothnia",
+        "country": "Finland",
+        "postcode": 99131,
+        "coordinates": {
+          "latitude": "-47.0250",
+          "longitude": "42.5890"
+        },
+        "timezone": {
+          "offset": "-4:00",
+          "description": "Atlantic Time (Canada), Caracas, La Paz"
+        }
+      },
+      "email": "pinja.hautala@example.com",
+      "login": {
+        "uuid": "f827fb1b-547f-4848-ba6e-c2a45a48ff4e",
+        "username": "bigmouse228",
+        "password": "illini",
+        "salt": "0q5l7ff4",
+        "md5": "5cfa5ba88212af22f5f3b01226b31d71",
+        "sha1": "fd3b8f36c49985c486060639ba35afb7fc8fa6bf",
+        "sha256": "bd4d81267225ea7840653726cbb0643ab41e88b9663423b669fdb9348dcc6643"
+      },
+      "dob": {
+        "date": "1970-11-05T05:30:31.059Z",
+        "age": 51
+      },
+      "registered": {
+        "date": "2018-05-13T01:26:09.724Z",
+        "age": 3
+      },
+      "phone": "07-211-967",
+      "cell": "048-451-76-38",
+      "id": {
+        "name": "HETU",
+        "value": "NaNNA558undefined"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/56.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/56.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/56.jpg"
+      },
+      "nat": "FI"
+    }
+  ]
+}

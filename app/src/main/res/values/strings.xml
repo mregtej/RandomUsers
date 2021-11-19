@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RandomUsers</string>
+    <string name="profile_photo_contentDescription">Profile Photo</string>
+    <string name="profile_email_contentDescription">Email Address</string>
+    <string name="profile_phone_contentDescription">Phone Number</string>
+</resources>

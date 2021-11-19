@@ -24,8 +24,7 @@
     * TODO Database unit testing still missing 
 
 ## TODO goals not yet implemented
- - Add a button or any similar infinite scroll mechanism to retrieve more users and add them to 
-   your current users list.
+ - Add a search-box (live-search box) to filter users by name, email or phone number.
  - Add a button to each cell or a similar interaction to delete users. If you press that button 
    your user will not be shown anymore in your user list. Even if the user is part of a new server 
    side response.
@@ -42,8 +41,8 @@
   separation of concerns by adding the viewModel as a translator/middleware between data and view
   layers. https://developer.android.com/jetpack/guide?hl=de#recommended-app-arch
 
-- The service layer has a repository class, which is responsible of retrieving users from the
-  database or from the network depending on the specific use case.
+- The repository class is responsible of retrieving users from the database or from the network 
+  depending on the specific use case.
 
 - All service layer classes (Singletons), ViewModelFactories and FragmentFactories have been 
   injected using dagger2. It simplifies the written code and provide an adaptive environment that's 
@@ -66,9 +65,9 @@
 
 ## Potential improvements
 
-- 2 planning goals are still missing
+- 2 planned goals are still missing
 
-- Improving the UI experience when new users are fetched (when scroll-view reaches the bottom)
+- Improve the UI experience when new users are fetched (when scroll-view reaches the bottom)
 
 - Unit tests for WebService (Retrofit) and DAO (Room) still missing
 
